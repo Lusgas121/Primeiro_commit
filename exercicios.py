@@ -1,3 +1,5 @@
+#exercicios
+
 #tirar a raiz quadrada de um número
 
 import math
